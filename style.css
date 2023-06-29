@@ -1,0 +1,47 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  }
+  
+  h1 {
+    background-color: #31034d;
+    width: 150px;
+    height: 40px;
+    color: white;
+    margin: center;
+    padding: center;
+  }
+  
+ .box-container{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;    
+  }
+  
+ .box {
+  width: 150px;
+  height:150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  font-size: 1.5rem;
+  color: rgb(5, 15, 105);
+  }
+
+  #city{
+    background-color: rgb(76, 173, 190);
+  }
+  #temp {
+    background-color: rgb(142, 163, 201);  
+  }
+
+  #humidity{
+    background-color: rgb(144, 199, 204);
+  }
+
+  #wind {
+    background-color: rgb(177, 211, 177);
+  }

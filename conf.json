@@ -1,0 +1,45 @@
+
+{
+    "coord": {
+        "lon": 2.3434,
+        "lat": 48.9883
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 297.55,
+        "feels_like": 297.66,
+        "temp_min": 296.24,
+        "temp_max": 298.6,
+        "pressure": 1014,
+        "humidity": 62
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 300
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1688040006,
+    "sys": {
+        "type": 2,
+        "id": 2001928,
+        "country": "FR",
+        "sunrise": 1688010546,
+        "sunset": 1688068720
+    },
+    "timezone": 7200,
+    "id": 2992229,
+    "name": "Montmorency",
+    "cod": 200
+}
+ 
